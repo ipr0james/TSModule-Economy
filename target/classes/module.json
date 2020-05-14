@@ -1,0 +1,5 @@
+{
+  "name": "Economy",
+  "version": "1.0.0",
+  "main": "net.thenova.titan.spigot.module.economy.Economy"
+}
